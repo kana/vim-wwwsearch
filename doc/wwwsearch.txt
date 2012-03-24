@@ -1,6 +1,6 @@
 *wwwsearch.txt*	Search WWW easily from Vim
 
-Version 0.0.1
+Version 0.0.2
 Script ID: 2785
 Copyright (C) 2009 kana <http://whileimautomaton.net/>
 License: MIT license  {{{
@@ -262,6 +262,8 @@ CHANGELOG					*wwwsearch-changelog*
 0.0.2	2009-09-16T20:08:08+09:00		*wwwsearch-changelog-0.0.2*
 	- Add more |wwwsearch-default-search-engines|:
 	  Dictionary (Mac OS X only), Twitter, www.vim.org and Wikipedia.
+	- Refine the document a bit.
+	- Refine the internal structure a bit.
 
 0.0.1	2009-09-15T19:34:47+09:00		*wwwsearch-changelog-0.0.1*
 	- Fix the default value of |g:wwwsearch_command_to_open_uri| for
